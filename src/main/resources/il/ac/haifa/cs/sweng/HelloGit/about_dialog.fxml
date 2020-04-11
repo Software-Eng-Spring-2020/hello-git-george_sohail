@@ -6,6 +6,7 @@
 <VBox xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1">
    <children>
       <TextArea prefHeight="250.0" prefWidth="200.0" text="Sohail" />
+      <TextArea prefHeight="250.0" prefWidth="200.0" text="George" />
 
    </children>
 </VBox>
