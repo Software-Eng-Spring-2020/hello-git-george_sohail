@@ -7,5 +7,6 @@
    <children>
       <TextArea prefHeight="250.0" prefWidth="200.0" text="Sohail" />
 
+      <TextArea prefHeight="250.0" prefWidth="200.0" text="George" />
    </children>
 </VBox>
